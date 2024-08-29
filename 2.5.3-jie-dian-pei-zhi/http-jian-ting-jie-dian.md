@@ -28,5 +28,3 @@ HTTP 监听节点用于监听 HTTP 请求，当有 HTTP 请求到达时，触发
 通过这些配置选项和功能，HTTP 监听节点能够灵活地处理和响应 HTTP 请求，确保客户端能够正确发送和接收数据。
 
 <figure><img src="../.gitbook/assets/http监听节点.png" alt=""><figcaption></figcaption></figure>
-
-####

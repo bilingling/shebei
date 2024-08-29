@@ -25,5 +25,3 @@
 通过这些配置选项，定时任务节点能够灵活地控制消息的注入时间和频率，确保流能够按照预定的计划被触发和执行。
 
 <figure><img src="../.gitbook/assets/定时任务.png" alt=""><figcaption></figcaption></figure>
-
-####
